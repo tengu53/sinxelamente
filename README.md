@@ -1,10 +1,6 @@
 
 ---
-title: "Švedská inspirace Japonskem"
-date: 2021-05-24T12:53:00+02:00
-draft: false
-featured_image: '/images/engawa-perex.jpg'
-omit_header_text: true
+
 ---
 # sinxelamente
 
@@ -12,7 +8,7 @@ V borových lesích na jihu Švédska vznikl pěkný dům, který v sobě nezap�
 
 Půdorys přízemní dřevostavby od švédského architekta Johana Sunberga, je navržen do tvaru písmene T. Díky tomu je ze všech pokojů z interiéru přístup na rozměrnou terasu. Právě velkorysá dřevěná terasa, která obepíná celý dům, je jedním z prvků inspirovaných japonskou architekturou. U japonských domů se dřevěný ochoz, který umožňuje snadný přístup z interiéru ven, nazývá **engawa**.
 
-![engawa](/images/engawa/engawa-2.jpg)
+![Sinxelamente](/arch.jpg)
 
 Inspirace japonskou architekturou je pro architekta samozřejmostí. Podle jeho slov byla severoevropská moderní architektura Japonskem ovlivněna vždy.  Mezi další typické prvky japonské architektury jsou řetězy, které slouží jako svod dešťové vody z přesahů střech.
 
