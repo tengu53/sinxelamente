@@ -32,7 +32,7 @@ minima:
   date_format: "%b %-d, %Y"
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
