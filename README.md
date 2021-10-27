@@ -1,6 +1,7 @@
-
 ---
-
+layout: page
+permalink: "/readme/"
+title: "Vo co gou"
 ---
 # sinxelamente
 
