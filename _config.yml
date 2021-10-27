@@ -28,6 +28,8 @@ twitter_username:
 github_username:  tengu53
 lang: cs
 
+theme: minima
+
 minima:
   date_format: "%b %-d, %Y"
 
